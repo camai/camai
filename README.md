@@ -1,4 +1,5 @@
 # 안녕하세요, Android 개발자 Jg입니다 👋
+- Android  앱 서비스의 리딩, 개발, 배포, 운영을 담당
 
 ## 🔧 기술 스택
 - **언어**: Kotlin, Java, Swift
@@ -16,4 +17,11 @@
 ## 📫 연락처
 jotolo@naver.com
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=camai.camai)
+
+  <div align=center>
+	
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+	
+  </div>
+
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)

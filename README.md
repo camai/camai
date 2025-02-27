@@ -3,7 +3,7 @@
 ## 🔧 기술 스택
 - **언어**: Kotlin, Java, Swift
 - **아키텍처**: MVVM, Clean Architecture
-- **기술**: Jetpack Compose, AAC(Android Architecture Components), Jetpack Library, Netty, Retrofit, Glide, Okhttps3, Android VPN Service, Biometric, DataStore, Room, SQLChiper, SafeRoom
+- **기술**: Jetpack Compose, AAC(Android Architecture Components), Jetpack Library, Coroutine, RxJava, Netty, Retrofit, Glide, Okhttps3, Android VPN Service, Biometric, DataStore, Room, SQLChiper, SafeRoom
 
 ## 🚀 프로젝트
 - [NaverMovie](https://github.com/camai/NaverMovie) - 네이버 영화 검색 API를 활용한 클린 아키텍처+MVVM 앱

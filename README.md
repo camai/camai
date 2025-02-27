@@ -1,16 +1,17 @@
-## Hi there 👋
+# 안녕하세요, Android 개발자 Jg입니다 👋
 
-<!--
-**camai/camai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 기술 스택
+- **언어**: Kotlin, Java, Swift
+- **아키텍처**: MVVM, Clean Architecture
+- **기술**: Jetpack Compose, AAC(Android Architecture Components), Jetpack Library, Netty, Retrofit, Glide, Okhttps3, Android VPN Service, Biometric, DataStore, Room, SQLChiper, SafeRoom
 
-Here are some ideas to get you started:
+## 🚀 프로젝트
+- [NaverMovie](https://github.com/camai/NaverMovie) - 네이버 영화 검색 API를 활용한 클린 아키텍처+MVVM 앱
+- [LeetCode Solutions](https://github.com/camai/LeetCode) - 알고리즘 문제 풀이 모음
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 현재 공부 중
+- Jetpack Compose
+- 알고리즘
+
+## 📫 연락처
+jotolo@naver.com

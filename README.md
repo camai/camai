@@ -4,7 +4,7 @@
 
 ## 🔧 기술 스택
 - **언어**: Kotlin, Java, Swift
-- **아키텍처**: MVVM, Clean Architecture
+- **아키텍처**: MVVM, MVI, Clean Architecture
 - **기술**: Jetpack Compose, AAC(Android Architecture Components), Jetpack Library, Coroutine, RxJava, Netty, Retrofit, Glide, Okhttps3, Android VPN Service, Biometric, DataStore, Room, SQLChiper, SafeRoom
 
 ## 🚀 프로젝트

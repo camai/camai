@@ -11,6 +11,8 @@
 - [LeetCode Solutions](https://github.com/camai/LeetCode) - 알고리즘 문제 풀이 모음
 - [BBOXX](https://github.com/depromeet/BBOXX-AOS) - DPM : BBOXX 감정쓰래기통 (3등)
 - [Compose Playground](https://github.com/camai/Compose-Playground) - Compose 로 여러가지 앱 기능 만들기
+- [Child Moment Snap](https://github.com/camai/ChildMomentSnap.git) - AI를 활용한 아이와의 추억을 기록
+ 
 
 ## 🌱 현재 공부 중
 - Jetpack Compose

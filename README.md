@@ -10,9 +10,11 @@
 ## 🚀 프로젝트
 - [LeetCode Solutions](https://github.com/camai/LeetCode) - 알고리즘 문제 풀이 모음
 - [BBOXX](https://github.com/depromeet/BBOXX-AOS) - DPM(3등) : BBOXX 감정쓰래기통
-- [Compose Playground](https://github.com/camai/Compose-Playground) - Compose 로 여러가지 앱 기능 만들기
+- [Compose Playground](https://github.com/camai/Compose-Playground) - Compose 로 여러가지 앱 기능 만들기 (진행중)
 - [Movie Search](https://github.com/camai/movie-search/tree/main) - 영화진흥원 API를 통한 영화 검색
+- [Voice Note](https://github.com/camai/VoiceNote) - 간편 녹음기
 - [Child Moment Snap](https://github.com/camai/ChildMomentSnap.git) - AI를 활용한 아이와의 추억을 기록 (진행중)
+- [Flutter Playground] (https://github.com/camai/flutterplay) - Flutter 로 여러가지 앱 기능 만들기 (진행중)
  
 
 ## 🌱 현재 공부 중

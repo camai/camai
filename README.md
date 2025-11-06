@@ -24,6 +24,9 @@
 ## 📫 연락처
 jotolo@naver.com
 
+## 이력서
+- [이력서](https://zippy-tugboat-701.notion.site/Jg-b0b718ac2a134584a24c8ce1f5142222?source=copy_link)
+
 
   <div align=center>
 	
